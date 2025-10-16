@@ -14,7 +14,7 @@ export const HeroSection = () => {
       <div className="container relative mx-auto px-4">
         <div className="mx-auto max-w-4xl text-center">
           {/* Main heading */}
-          <h1 className="mb-6 text-4xl font-bold tracking-tight text-foreground sm:text-5xl md:text-6xl">
+          <h1 className="mb-6 text-4xl font-heading font-light tracking-tight text-foreground sm:text-5xl md:text-6xl">
             {t.hero.title}
           </h1>
           
